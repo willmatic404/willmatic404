@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willmatic404
 - 👀 I’m interested in athletics, fitness, comics, anime and new changes in technology.
 - 🌱 I’m currently learning to code to improve my tech skills.
-- 📫 How to reach me willmaticTheCreator@gmail.com
+- 📫 How to reach me wmcdonaldtech@gmail.com
 Hope to network and learn from so many here.
 
 <!---
