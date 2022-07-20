@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willmatic.dec
+- 👋 Hi, I’m @willmatic.dev
 - 👀 I’m interested in athletics, fitness, comics, anime and new changes in technology.
 - 🌱 I’m currently learning to code to improve my tech skills.
 - 📫 How to reach me wmcdonaldtech@gmail.com
