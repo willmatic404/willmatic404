@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @willmatic404
+- 👋 Hi, I’m @willmatic.dec
 - 👀 I’m interested in athletics, fitness, comics, anime and new changes in technology.
 - 🌱 I’m currently learning to code to improve my tech skills.
 - 📫 How to reach me wmcdonaldtech@gmail.com
 Hope to network and learn from so many here.
 
 <!---
-willmatic404/willmatic404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+willmatic404/willmatic.dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
